@@ -8,3 +8,10 @@
   <img src="https://media1.tenor.com/m/9nEdQmLxArAAAAAC/a.gif"/>
 </div>
 <h2 align="center">A passionate software developer from Morocco </h2>
+
+<div align="center">
+
+A passionate computer science student who loves to learn and explore new technologies, whether it's web development, mobile apps, desktop applications, or electronics. 🚀 Always excited to embrace new knowledge! 
+🚀 #TechEnthusiast
+ 
+ </div>
