@@ -28,6 +28,12 @@ A passionate computer science who loves to learn and explore new technologies, w
   </a>
 </div>
 
+
+<div style="display: flex;">
+        <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e477ioyjdgkga3gl52zh9fjk80tzgs3dkm3fs90cddu&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="480px" height="360px"/>
+        <img src="https://media2.giphy.com/media/5ntdy5Ban1dIY/giphy.gif?cid=ecf05e47ie4ztu3n5ocgpfqnv9bd2dmbyfg9rwba3ig5n449&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="480px" height="360px" />
+</div>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
