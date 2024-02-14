@@ -11,7 +11,7 @@
 
 <div align="center">
 
-A passionate computer science student who loves to learn and explore new technologies, whether it's web development, mobile apps, desktop applications, or electronics. 🚀 Always excited to embrace new knowledge! 
+A passionate computer science who loves to learn and explore new technologies, whether it's web development, mobile apps, desktop applications, or electronics. 🚀 Always excited to embrace new knowledge! 
 🚀 #TechEnthusiast
  
  </div>
