@@ -7,4 +7,4 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/9nEdQmLxArAAAAAC/a.gif"/>
 </div>
-<h2 align="center">A passionate software developer from Canada 🇨🇦</h2>
+<h2 align="center">A passionate software developer from Morocco </h2>
