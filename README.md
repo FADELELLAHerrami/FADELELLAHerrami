@@ -32,6 +32,7 @@ A passionate computer science who loves to learn and explore new technologies, w
 <div style="display: flex;">
         <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e477ioyjdgkga3gl52zh9fjk80tzgs3dkm3fs90cddu&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="240px" height="130px"/>
         <img src="https://media2.giphy.com/media/5ntdy5Ban1dIY/giphy.gif?cid=ecf05e47ie4ztu3n5ocgpfqnv9bd2dmbyfg9rwba3ig5n449&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="240px" height="130px" />
+        <img src="https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e47ie4ztu3n5ocgpfqnv9bd2dmbyfg9rwba3ig5n449&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="240px" height="130px" />
 </div>
 
 <div align="center">
